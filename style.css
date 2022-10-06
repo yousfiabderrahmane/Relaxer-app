@@ -12,6 +12,10 @@ body {
   color: white;
   margin: 0;
 }
+h1 {
+  border-left: 4px solid white;
+  padding-left: 10px;
+}
 .container {
   display: flex;
   align-items: center;
